@@ -1,7 +1,3 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarted data to uncover trends
-
-
 # Kickstarting with Excel
 
 ## Overview of Project
